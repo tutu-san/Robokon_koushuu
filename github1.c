@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-    printf("github");
+    printf("origin‚Í‹–‚³‚ñB");
     return 0;
 }
